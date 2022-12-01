@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Daniel Houri</h1>
+<h1 align="center">Hi there, I'm Daniel Houri</h1>
 <h3 align="center">I’m a 3rd year computer science student at Bar-Ilan University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhouri&label=Profile%20views&color=0e75b6&style=flat" alt="danielhouri" /> </p>
